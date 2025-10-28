@@ -9,12 +9,12 @@
 
 ### 🔧 Technical Skills
 
-#### 💻 Programming Languages
+#### Programming Languages
 - **Java:** Core Java, OOPs, Exception Handling, Collections, Multithreading  
 - **SQL:** Queries, Joins, Normalization, Constraints, and Database Design  
 - **Python (Basic):** For scripting and automation
 
-#### ⚙️ Frameworks & Tools
+#### Frameworks & Tools
 - **Spring Boot:** REST API creation, layered architecture, dependency injection, and data handling with Spring Data JPA  
 - **Databases:** MySQL, PostgreSQL (basic CRUD operations, relationships, indexing)  
 - **Version Control:** Git & GitHub  
@@ -22,14 +22,14 @@
 
 ---
 
-### 📊 GitHub Stats
+### GitHub Stats
 
 ![Bhavik's GitHub stats](https://github-readme-stats.vercel.app/api?username=sewaqbhawiq98&show_icons=true&theme=github_dark&hide_border=true)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sewaqbhawiq98&layout=compact&theme=github_dark&hide_border=true)
 
 ---
 
-### 🧩 What I'm Currently Working On
+### What I'm Currently Working On
 - Developing **Spring Boot + MySQL** based mini projects to strengthen backend fundamentals  
 - Practicing **Data Structures & Algorithms (DSA)** to improve problem-solving and logic  
 - Enhancing understanding of **database design and query optimization**  
@@ -37,7 +37,7 @@
 
 ---
 
-### 📚 Academic / Personal Projects
+### Academic / Personal Projects
 - **Traffic Density Detection System:** Designed a system to analyze real-time or simulated traffic data to estimate vehicle density on roads. Implemented using
 - **Python** for logic and
 - **OpenCV / image processing** for visual detection, with a focus on improving traffic signal efficiency.
@@ -47,10 +47,10 @@
 
 ---
 
-### 📫 Connect With Me
+### Connect With Me
 - LinkedIn -  (https://www.linkedin.com/in/bhavik-sevak-bs1008/)  
 - Email    -   (bhaviksevak98@gmail.com)
 
 ---
 
-⭐ **Fun Fact:** I prefer working in dark mode — less strain, more focus, and cleaner aesthetics 😎  
+ **Fun Fact:** I prefer working in dark mode — less strain, more focus, and cleaner aesthetics  
