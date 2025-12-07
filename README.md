@@ -22,11 +22,12 @@
 
 ---
 
-### GitHub Stats📊 
-![Bhavik's GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight)
+## 📊 GitHub Stats
+![Bhavik's GitHub stats](https://github-readme-stats.vercel.app/api?username=sewaqbhawiq98&show_icons=true&theme=tokyonight)
 
 ## 💻 Top Languages
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sewaqbhawiq98&layout=compact&theme=tokyonight)
+
 
 ---
 
